@@ -5,7 +5,9 @@
 ![TITLE](./title.png)
 
 </div>
-[Binary Download link](https://github.com/McModuleStudio/Flux/releases/tag/Binary)
+
+[Download link](https://github.com/McModuleStudio/Flux/releases/tag/Binary)
+
 
 Flux Leaked Source fixed! Enjoy it!
 
